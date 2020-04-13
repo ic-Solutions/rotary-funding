@@ -54,3 +54,11 @@ post_date: 2020-04-13 13:24:58
 <!-- wp:paragraph -->
 <p><strong>Rtn. Manoj Agarwal</strong><br>President<br>Rotary Bangalore Indiranagar</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:button {"backgroundColor":"vivid-green-cyan"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://funding.rotaryindiranagar.org/donations/covid-19-fund-raiser-giving-food-packs-to-daily-wage-labour-in-bengaluru-to-complement-govt-efforts/">Donate</a></div>
+<!-- /wp:button -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
